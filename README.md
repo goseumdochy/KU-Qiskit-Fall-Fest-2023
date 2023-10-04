@@ -2,98 +2,7 @@
 
 ![img1](./img/Logo.png)
 
-## Welcome!!
-
-This is the Qiskit Fall Fest at Korea University event page. Nice to meet you all! This event is hosted by QUICK(QUantum Information Club at Korea University) and supported by IBM Quantum.
-
-Qiskit is an open-source quantum computing framework developed by IBM that is designed to access quantum computers and design circuits through cloud systems.
-
-The purpose of this event is to encourage students who are not familiar with quantum computers to become interested in the field of quantum computers. We will proceed with the event in the form of a "challenge", and participants will be able to deal with quantum computers as they solve the challenge problems step by step.
-
-Challenge problems will grdually increase in difficulty, starting with very basic ones that can be solved even by students who have no knowledge of quantum computers. Before starting the challenge, a workshop will also be held to introduce the quantum computer field and teach how to code qiskit.
-
-We look forward to seeing the participants. You don't have to know much about quantum computers, so please don't hesitate to apply if you're curious about what quantum computers are!
-
-## Schedule
-
-### Summarized timetable
-
-| Time(KST)              | type & place       | content         |
-| ---------------------- | ------------------ | --------------- |
-| 11/4(Sat) 10:00~12:00  | online             | kickoff meeting |
-| 11/5(Sun) 19:00~21:00  | online             | Workshop1       |
-| 11/7(Tue) 19:00~21:00  | offline(place TBD) | Workshop2       |
-| 11/11(Sat) 10:00~12:00 | online             | Workshop3       |
-| 11/14(Tue) 19:00~21:00 | online             | Workshop4       |
-| 11/18(Sat) 10:00~18:30 | offline(place TBD) | Challenge       |
-
-**A recording of the online workshop will be available after each workshop.**
-
-### ✨ Kickoff meeting ✨
-
-_Session Details: 11/4/2023(Sat), online, 10:00~12:00_
-
-Kickoff meeting is the first time the event organizers and participants meet online. It is a time to inform participants of detailed event schedule and precautions for participants. And introduce what quantum computers are.
-
-### 💡Qiskit Fall Fest Workshop 1: Introduction to Linear Algebra and Circuit Composition. 💡
-
-_Session Details: 11/5/2023(Sun), online, 19:00~21:00_
-
-Our first workshop will cover mathematical background knowledge you need to know to understand how quantum computers work. It will deal with basic linear algebra, single qubit, and multiple qubits.
-
-### 💡Qiskit Fall Fest Workshop 2: What can we do with quantum computers?💡
-
-_Session Details: 11/7/2023(Tue), offline(place TBD), 19:00~21:00_
-
-The second workshop will cover what we can do using quantum computers and what are the detailed research areas related to quantum computers.
-We invite researchers in quantum information science as speakers. They will give an overview of the field they are studying. And they will introduce interesting projects that they have worked on and explain the experience of using quantum computers.
-
-We will deal with Quantum teleportation, and Grover's Algorithm too!
-
-### 💡Qiskit Fall Fest Workshop 3: How to use Qiskit?💡
-
-_Session Details: 11/11/2023(Sat), online, 10:00~12:00_
-
-Our Thrid workshop will cover how to setup your Qiskit environment and run your quantum circuit on IBM's quantum computers and simulators.
-
-### 💡Qiskit Fall Fest Workshop 4: What do you have to prepare before starting the challenge?💡
-
-_Session Details: 11/14/2023(Tue), online, 19:00~21:00_
-
-In workshop4, we will guide the type of challenge problem and solve the challenge problem example together. Also, We will recommend some good materials to study about Qiskit and quantum computing before the challenge.
-
-### 🎉 Challenge 🎉
-
-_Event Details: 11/18/2023(Sat), offline(place TBD), 10:00~18:30_
-
-| time        | content                                                     |
-| ----------- | ----------------------------------------------------------- |
-| 10:00~10:30 | Opening                                                     |
-| 10:30~11:00 | Challenge Problem Disclosure and Setting Qiskit Environment |
-| 11:00       | Starting to solve challenge problem                         |
-| 12:30       | Having lunch                                                |
-| 17:30       | Deadline of Challenge Problem Solving                       |
-| 17:30~18:00 | Awards ceremony                                             |
-| 18:00~18:30 | Post event survey & Additional resources                    |
-
-## Attendee Guide
-
-### Background knowledge that participants need to know
-
-- Basic coding experience(Regardless of the programming language)
-  - Conditional statements, iterations, functions
-
-### IBM Quantum Community [Code of Conduct Guidelines](https://github.com/Qiskit/qiskit/blob/main/CODE_OF_CONDUCT.md)
-
-### Registration
-- Deadline: 10/31/2023(Tue)
-- Event applications may close early if there are many applicants
-- Participation in the Qiskit Fall Fest may be difficult if the application is not faithfully filled out
-- Registration form: [Google form](https://forms.gle/RgD4hvSwJkNuctLY9)
-
-* * *
-
-## 환영합니다!!
+## 환영합니다!
 
 Qiskif Fall Fest at Korea University 행사 안내 페이지입니다. 관심을 갖고 이 페이지를 봐주셔서 감사합니다! 이 행사는 IBM Quantum 의 도움을 받아 진행되며, 고려대학교 양자정보과학 학술동아리 QUICK(QUantum Information Club at Korea University)에서 주최합니다. 이 행사는 고려대학교 학생들만을 위한 행사입니다!
 
@@ -109,16 +18,18 @@ Qiskit Fall Fest at Korea University에서 참가자분들을 만나 뵐 수 있
 
 ### 전체적인 일정표
 
-| 시간(KST)                | 진행 방식 및 장소  | 내용        |
-| ------------------------ | ------------------ | ----------- |
-| 11/4(토) 10:00~12:00 AM  | online             | 킥오프 미팅 |
-| 11/5(일) 7:00~9:00 PM    | online             | 워크숍 1    |
-| 11/7(화) 7:00~9:00 PM    | offline(place TBD) | 워크숍 2    |
-| 11/11(토) 10:00~12:00 AM | online             | 워크숍 3    |
-| 11/14(화) 7:00~9:00 PM   | online             | 워크숍 4    |
-| 11/18(토) 10:00~18:30    | offline(place TBD) | Challenge   |
+| 시간(KST)                | 진행 방식 및 장소  | 내용        | 비고             |
+| ------------------------ | ------------------ | ----------- | ----------------- |
+| 11/4(토) 10:00~12:00 AM  | online             | 킥오프 미팅 | 실시간 참여 혹은 녹화본 11/5(일) 오후 6시 전까지 시청 |
+| 11/5(일) 7:00~9:00 PM    | online             | 워크숍 1    | 실시간 참여 혹은 녹화본 11/6(월) 자정까지 시청 |
+| 11/7(화) 7:00~9:00 PM    | offline(place TBD) | 워크숍 2    | 오프라인으로 필수 참여 |
+| 11/11(토) 10:00~12:00 AM | online             | 워크숍 3    | 실시간 참여 혹은 녹화본 11/17(금) 자정까지 시청 |
+| 11/14(화) 7:00~9:00 PM   | online             | 워크숍 4    | 실시간 참여 혹은 녹화본 11/17(금) 자정까지 시청 |
+| 11/18(토) 10:00~18:30    | offline(place TBD) | Challenge   |  |
 
 **온라인으로 진행되는 워크숍 녹화본은 각 워크숍 이후 제공될 예정입니다.**
+
+**위 표의 비고란에 적힌 내용을 따르지 않을 경우 Challenge 참여가 제한될 수 있습니다**
 
 ### ✨ 킥오프 미팅 ✨
 
@@ -176,13 +87,151 @@ _Event Details: 11/18/2023(토), offline(place TBD), 10:00~18:30_
 - 고등학교 수준의 수학
   - 확률이 무엇인지, 스칼라와 벡터의 차이가 무엇인지 알고 계시면 됩니다.
 
+### 참가자 준비물
+
+- 개인 노트북, 충전기
+
+### 참가자에게 제공되는 물품
+
+- 중식, 다과
+
 ### IBM Quantum Community [행동강령](https://github.com/Qiskit/qiskit/blob/main/CODE_OF_CONDUCT.md)
 
 ### 등록
+
 - 마감기한: 10/31/2023(Tue) 23:59
+- 참가비: 10,000원(등록 마감 이후 메일을 통해 개별적으로 납부 안내할 예정)
+- 최대 40명 모집
 - 신청자가 많을 경우 조기 마감될 수 있습니다.
 - 신청서를 성실히 작성하지 않으신 경우 Qiskit Fall Fest 참여가 어려우실 수 있습니다.
 - 참가 신청서: [Google form](https://forms.gle/RgD4hvSwJkNuctLY9)
 
 ### 시상품
-- Qiskit Swag package
+
+- 상위 5명에게 Qiskit Swag package(Qiskit 관련 기념품) 및 상장 수여
+- 상위 3명에게 상금 수여
+
+### 문의사항 있는 경우
+
+- 아래의 링크를 통해 카카오톡 오픈채팅방을 통해 문의바랍니다.
+- https://open.kakao.com/o/sHtfMOKf
+
+* * *
+
+## Welcome!!
+
+This is the Qiskit Fall Fest at Korea University event page. Nice to meet you all! This event is hosted by QUICK(QUantum Information Club at Korea University) and supported by IBM Quantum.
+
+Qiskit is an open-source quantum computing framework developed by IBM that is designed to access quantum computers and design circuits through cloud systems.
+
+The purpose of this event is to encourage students who are not familiar with quantum computers to become interested in the field of quantum computers. We will proceed with the event in the form of a "challenge", and participants will be able to deal with quantum computers as they solve the challenge problems step by step.
+
+Challenge problems will grdually increase in difficulty, starting with very basic ones that can be solved even by students who have no knowledge of quantum computers. Before starting the challenge, a workshop will also be held to introduce the quantum computer field and teach how to code qiskit.
+
+We look forward to seeing the participants. You don't have to know much about quantum computers, so please don't hesitate to apply if you're curious about what quantum computers are!
+
+## Schedule
+
+### Summarized timetable
+
+| Time(KST)              | type & place       | content         | note |
+| ---------------------- | ------------------ | --------------- | ----- |
+| 11/4(Sat) 10:00~12:00  | online             | kickoff meeting | Participate in real-time or watch the recording until 18:00 on 11/5(Sun) |
+| 11/5(Sun) 19:00~21:00  | online             | Workshop1       | Participate in real-time or watch the recording until 23:59 on 11/6(Mon) |
+| 11/7(Tue) 19:00~21:00  | offline(place TBD) | Workshop2       | Participate in offline |
+| 11/11(Sat) 10:00~12:00 | online             | Workshop3       | Participate in real-time or watch the recording until 23:59 on 11/17(금) |
+| 11/14(Tue) 19:00~21:00 | online             | Workshop4       | Participate in real-time or watch the recording until 23:59 on 11/17(금) |
+| 11/18(Sat) 10:00~18:30 | offline(place TBD) | Challenge       |  |
+
+**A recording of the online workshop will be available after each workshop.**
+
+### ✨ Kickoff meeting ✨
+
+_Session Details: 11/4/2023(Sat), online, 10:00~12:00_
+
+Kickoff meeting is the first time the event organizers and participants meet online. It is a time to inform participants of detailed event schedule and precautions for participants. And introduce what quantum computers are.
+
+### 💡Qiskit Fall Fest Workshop 1: Introduction to Linear Algebra and Circuit Composition. 💡
+
+_Session Details: 11/5/2023(Sun), online, 19:00~21:00_
+
+Our first workshop will cover mathematical background knowledge you need to know to understand how quantum computers work. It will deal with basic linear algebra, single qubit, and multiple qubits.
+
+### 💡Qiskit Fall Fest Workshop 2: What can we do with quantum computers?💡
+
+_Session Details: 11/7/2023(Tue), offline(place TBD), 19:00~21:00_
+
+The second workshop will cover what we can do using quantum computers and what are the detailed research areas related to quantum computers.
+We invite researchers in quantum information science as speakers. They will give an overview of the field they are studying. And they will introduce interesting projects that they have worked on and explain the experience of using quantum computers.
+
+We will deal with Quantum teleportation, and Grover's Algorithm too!
+
+### 💡Qiskit Fall Fest Workshop 3: How to use Qiskit?💡
+
+_Session Details: 11/11/2023(Sat), online, 10:00~12:00_
+
+Our Thrid workshop will cover how to setup your Qiskit environment and run your quantum circuit on IBM's quantum computers and simulators.
+
+### 💡Qiskit Fall Fest Workshop 4: What do you have to prepare before starting the challenge?💡
+
+_Session Details: 11/14/2023(Tue), online, 19:00~21:00_
+
+In workshop4, we will guide the type of challenge problem and solve the challenge problem example together. Also, We will recommend some good materials to study about Qiskit and quantum computing before the challenge.
+
+### 🎉 Challenge 🎉
+
+_Event Details: 11/18/2023(Sat), offline(place TBD), 10:00~18:30_
+
+| time        | content                                                     |
+| ----------- | ----------------------------------------------------------- |
+| 10:00~10:30 | Opening                                                     |
+| 10:30~11:00 | Challenge Problem Disclosure and Setting Qiskit Environment |
+| 11:00       | Starting to solve challenge problem                         |
+| 12:30       | Having lunch                                                |
+| 17:30       | Deadline of Challenge Problem Solving                       |
+| 17:30~18:00 | Awards ceremony                                             |
+| 18:00~18:30 | Post event survey & Additional resources                    |
+
+## Attendee Guide
+
+### Background knowledge that participants need to know
+
+- Basic coding experience(Regardless of the programming language)
+  - Conditional statements, iterations, functions
+- Mathematical background
+  - you have to know concept of probability, vector and scalar
+
+### 참가자 준비물
+
+- 개인 노트북, 충전기
+
+### 참가자에게 제공되는 물품
+
+- 중식, 다과
+
+### IBM Quantum Community [Code of Conduct Guidelines](https://github.com/Qiskit/qiskit/blob/main/CODE_OF_CONDUCT.md)
+
+### Registration
+- Deadline: 10/31/2023(Tue)
+- Event applications may close early if there are many applicants
+- Participation in the Qiskit Fall Fest may be difficult if the application is not faithfully filled out
+- Registration form: [Google form](https://forms.gle/RgD4hvSwJkNuctLY9)
+
+### Registration
+
+- Deadline: 10/31/2023(Tue) 23:59
+- 참가비: 10,000원(등록 마감 이후 메일을 통해 개별적으로 납부 안내할 예정)
+- 최대 40명 모집
+- 신청자가 많을 경우 조기 마감될 수 있습니다.
+- 신청서를 성실히 작성하지 않으신 경우 Qiskit Fall Fest 참여가 어려우실 수 있습니다.
+- 참가 신청서: [Google form](https://forms.gle/RgD4hvSwJkNuctLY9)
+
+### 시상품
+
+- 상위 5명에게 Qiskit Swag package(Qiskit 관련 기념품) 및 상장 수여
+- 상위 3명에게 상금 수여
+
+### 문의사항 있는 경우
+
+- 아래의 링크를 통해 카카오톡 오픈채팅방을 통해 문의바랍니다.
+- https://open.kakao.com/o/sHtfMOKf
