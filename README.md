@@ -4,7 +4,7 @@
 
 ## 환영합니다!
 
-Qiskif Fall Fest at Korea University 행사 안내 페이지입니다. 관심을 갖고 이 페이지를 봐주셔서 감사합니다! 이 행사는 IBM Quantum 의 도움을 받아 진행되며, 고려대학교 양자정보과학 학술동아리 QUICK(QUantum Information Club at Korea University)에서 주최합니다. 이 행사는 고려대학교 학생들만을 위한 행사입니다!
+Qiskif Fall Fest at Korea University 행사 안내 페이지입니다. 관심을 갖고 이 페이지를 봐주셔서 감사합니다! 이 행사는 IBM Quantum 의 도움을 받아 진행되며, 고려대학교 양자정보과학 학술동아리 [QUICK](https://quick-website.github.io/)(QUantum Information Club at Korea University)에서 주최합니다. 이 행사는 고려대학교 학생들만을 위한 행사입니다!
 
 Qiskit은 클라우드 시스템을 통해 양자 컴퓨터에 접근하고 양자 회로를 설계할 수 있도록 설계된 IBM이 개발한 오픈 소스 양자 컴퓨팅 프레임워크입니다.
 
@@ -13,6 +13,9 @@ Qiskit은 클라우드 시스템을 통해 양자 컴퓨터에 접근하고 양�
 "Challenge" 란, 주최측이 제시하는 문제들을 풀어나가는 행사를 말합니다. 도전 문제들은 양자컴퓨터를 전혀 몰랐던 학생들도 풀 수 있는 아주 기본적인 문제를 시작으로 난이도가 점차 높아질 것입니다. 문제가 제시되기 전, 문제를 풀기 위해 알아야할 내용에 대한 설명도 문제와 함께 제시가 될 것입니다. 제공 되는 설명들을 보며 도전 문제를 풀어나가다보면, 양자컴퓨터를 활용하는 기초적인 능력을 갖추게 될 것입니다. 본격적인 "Challenge"를 하기 전에도 양자컴퓨터 분야를 소개하고 Qiskit 을 이용하여 코딩하는 방법을 알려주는 워크숍도 진행됩니다.
 
 Qiskit Fall Fest at Korea University에서 참가자분들을 만나 뵐 수 있기를 기대하며, 양자컴퓨터에 대해 잘 모르시는 분도 환영합니다! 양자컴퓨터가 무엇인지 궁금하신 분들은 주저하지 마시고 신청해주세요!
+
+## Support
+<img src="./img/support/support1.png" width="300" height="300"/>
 
 ## 일정
 
@@ -78,7 +81,43 @@ _Event Details: 11/18/2023(토), offline(place TBD), 10:00~18:30_
 | 17:30~18:00 | 시상식                           |
 | 18:00~18:30 | 행사 후 설문 및 마무리           |
 
-## 안내사항
+## 연사 소개
+
+### 워크숍2
+
+<img src="./img/speakers/speaker1.png" width="300" height="394"/>
+
+#### 허준 교수님, 고려대학교 전기전자공학부
+
+_11/7/2023(화) 19:00_
+
+주제:
+- 양자정보과학 분야 소개 및 연구 동향 & CIS 연구실 소개
+<!--
+<img src="./img/speakers/speaker4.png" width="300" height="394"/>
+
+#### OOO 연구원님, 고려대학교 전기전자공학부
+
+_11/7/2023(화) 19:40_
+
+주제:
+- Quantum Teleportation
+- Grover's Algorithm
+-->
+| <img src="./img/speakers/speaker3.png" width="300" height="407"/> | <img src="./img/speakers/speaker2.png" width="250" height="407"/> |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+
+#### 김중헌 교수님, 고려대학교 전기전자공학부(좌)
+#### 백한결 연구원님, 고려대학교 전기전자공학부(우)
+
+_11/7/2023(화) 20:30_
+
+주제:
+- 양자인공지능 분야 소개 및 AIM 연구실 소개
+- 양자인공지능 Application (Quantum Convolutional Neural Network 관점)
+- 그외 양자 컴퓨팅 관련된 재밌는 이야기들 (발전방향/Pros and Cons)
+
+## ❗안내사항❗
 
 ### 이 행사에 참여하기 위해 필요한 배경지식
 
@@ -94,6 +133,8 @@ _Event Details: 11/18/2023(토), offline(place TBD), 10:00~18:30_
 ### 참가자에게 제공되는 물품
 
 - 중식, 다과
+- 기념품
+- 수료증(IBM, 고려대학교(주관) 양자대학원)
 
 ### IBM Quantum Community [행동강령](https://github.com/Qiskit/qiskit/blob/main/CODE_OF_CONDUCT.md)
 
@@ -115,7 +156,7 @@ _Event Details: 11/18/2023(토), offline(place TBD), 10:00~18:30_
 
 - 아래의 링크를 통해 카카오톡 오픈채팅방에서 문의해주시거나 e-mail을 통해 문의해주시길 바랍니다.
 - https://open.kakao.com/o/sHtfMOKf
-- e-mail: ssgg0926@korea.ac.kr
+- e-mail: kuquickofficial@gmail.com
 
 * * *
 
@@ -130,6 +171,9 @@ The purpose of this event is to encourage students who are not familiar with qua
 Challenge problems will grdually increase in difficulty, starting with very basic ones that can be solved even by students who have no knowledge of quantum computers. Before starting the challenge, a workshop will also be held to introduce the quantum computer field and teach how to code qiskit.
 
 We look forward to seeing the participants. You don't have to know much about quantum computers, so please don't hesitate to apply if you're curious about what quantum computers are!
+
+## Support
+<img src="./img/support/support1.png" width="300" height="300"/>
 
 ## Schedule
 
@@ -193,7 +237,43 @@ _Event Details: 11/18/2023(Sat), offline(place TBD), 10:00~18:30_
 | 17:30~18:00 | Awards ceremony                                             |
 | 18:00~18:30 | Post event survey & Additional resources                    |
 
-## Attendee Guide
+## Guest Speaker
+
+### Workshop 2
+
+<img src="./img/speakers/speaker1.png" width="300" height="394"/>
+
+#### Professor Jun Heo, Korea University
+
+_11/7/2023(Tue) 19:00(KST)_
+
+Title:
+- Introduction to Quantum Information Science and Research Trends
+<!-- 
+<img src="./img/speakers/speaker4.png" width="300" height="394"/>
+
+#### OOO, 고려대학교 전기전자공학부
+
+_11/7/2023(화) 19:40_
+
+Title:
+- Quantum Teleportation
+- Grover's Algorithm
+-->
+| <img src="./img/speakers/speaker3.png" width="300" height="407"/> | <img src="./img/speakers/speaker2.png" width="250" height="407"/> |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+
+#### Professor Joongheon Kim, Korea University(left)
+#### Hankyul Baek, Korea University(right)
+
+_11/7/2023(Tue) 20:30_
+
+Title:
+- Introduction to Quantum Artificial Intelligence and AIM Laboratory
+- Application of Quantum Artificial Intelligence
+- Interesting Stories About Quantum Computing (the direction of development, Pros and Cons)
+
+## ❗Attendee Guide❗
 
 ### Background knowledge that participants need to know
 
@@ -230,4 +310,4 @@ _Event Details: 11/18/2023(Sat), offline(place TBD), 10:00~18:30_
 
 - Please contact us at the Kakao Talk open chat room through the link below or via e-mail.
 - https://open.kakao.com/o/sHtfMOKf
-- e-mail: ssgg0926@korea.ac.kr
+- e-mail: kuquickofficial@gmail.com
