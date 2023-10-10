@@ -18,7 +18,7 @@ Qiskit Fall Fest at Korea University에서 참가자분들을 만나 뵐 수 있
 
 ## Support
 <img src="./img/support/support1.png" width="300" height="300"/>
-<img src="./img/support/support2.png" width="300" height="200"/>
+<img src="./img/support/support2.png" width="300" height="100"/>
 <img src="./img/support/support3.png" width="300" height="180"/>
 
 ## 일정
@@ -191,7 +191,7 @@ We look forward to seeing the participants. You don't have to know much about qu
 
 ## Support
 <img src="./img/support/support1.png" width="300" height="300"/>
-<img src="./img/support/support2.png" width="300" height="200"/>
+<img src="./img/support/support2.png" width="300" height="100"/>
 <img src="./img/support/support3.png" width="300" height="180"/>
 
 ## Schedule
