@@ -18,6 +18,8 @@ Qiskit Fall Fest at Korea University에서 참가자분들을 만나 뵐 수 있
 
 ## Support
 <img src="./img/support/support1.png" width="300" height="300"/>
+<img src="./img/support/support2.png" width="300" height="200"/>
+<img src="./img/support/support3.png" width="300" height="180"/>
 
 ## 일정
 
@@ -119,6 +121,19 @@ _11/7/2023(화) 20:30_
 - 양자인공지능 Application (Quantum Convolutional Neural Network 관점)
 - 그외 양자 컴퓨팅 관련된 재밌는 이야기들 (발전방향/Pros and Cons)
 
+### Challenge 개회
+
+<img src="./img/speakers/speaker4.jpg" width="300" height="400"/>
+
+#### 김요셉 교수님, 고려대학교 물리학과
+
+_11/18/2023(토) 10:00_
+
+주제:
+- Challenge 개회 축하
+- 고려대학교(주관) 양자대학원 및 ScQI 연구실 소개
+- 실험물리학자 관점에서의 양자정보과학
+
 ## ❗안내사항❗
 
 ### 이 행사에 참여하기 위해 필요한 배경지식
@@ -176,6 +191,8 @@ We look forward to seeing the participants. You don't have to know much about qu
 
 ## Support
 <img src="./img/support/support1.png" width="300" height="300"/>
+<img src="./img/support/support2.png" width="300" height="200"/>
+<img src="./img/support/support3.png" width="300" height="180"/>
 
 ## Schedule
 
@@ -274,6 +291,19 @@ Title:
 - Introduction to Quantum Artificial Intelligence and AIM Laboratory
 - Application of Quantum Artificial Intelligence
 - Interesting Stories About Quantum Computing (the direction of development, Pros and Cons)
+
+### Challenge opening
+
+<img src="./img/speakers/speaker4.jpg" width="300" height="400"/>
+
+#### Professor Yosep Kim, Korea University
+
+_11/18/2023(Sat) 10:00_
+
+Title:
+- Celebrating the Opening of the Challenge
+- Introduction of Quantum Workforce Center and ScQI Laboratory
+- Quantum Information Science from the Perspective of an Experimental Physicist
 
 ## ❗Attendee Guide❗
 
