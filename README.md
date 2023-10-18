@@ -17,6 +17,7 @@ Qiskit Fall Fest at Korea University에서 참가자분들을 만나 뵐 수 있
 금전적, 행정적인 지원을 해주신 고려대학교(주관) 양자대학원에 감사 인사 드립니다.
 
 ## Support
+
 <img src="./img/support/support1.png" width="300" height="300"/>
 <img src="./img/support/support2.png" width="300" height="100"/>
 <img src="./img/support/support3.png" width="300" height="180"/>
@@ -87,6 +88,19 @@ _Event Details: 11/18/2023(토), offline(place TBD), 10:00~18:30_
 
 ## 연사 소개
 
+### 킥오프미팅
+
+<img src="./img/speakers/speaker5.png" width="300" height="400"/>
+
+#### 신소영, IBM Quantum(Korean lead, Quantum & Qiskit community)
+
+_11/4/2023(토) 10:00_
+
+주제:
+
+- 양자컴퓨터의 역사 및 양자컴퓨터와 고전 컴퓨터의 차이
+- IBM Quantum의 비전
+
 ### 워크숍2
 
 <img src="./img/speakers/speaker1.png" width="300" height="394"/>
@@ -96,6 +110,7 @@ _Event Details: 11/18/2023(토), offline(place TBD), 10:00~18:30_
 _11/7/2023(화) 19:00_
 
 주제:
+
 - 양자정보과학 분야 소개 및 연구 동향 & CIS 연구실 소개
 <!--
 <img src="./img/speakers/speaker4.png" width="300" height="394"/>
@@ -105,18 +120,21 @@ _11/7/2023(화) 19:00_
 _11/7/2023(화) 19:40_
 
 주제:
+
 - Quantum Teleportation
 - Grover's Algorithm
--->
-| <img src="./img/speakers/speaker3.png" width="300" height="407"/> | <img src="./img/speakers/speaker2.png" width="250" height="407"/> |
-| ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+  -->
+  | <img src="./img/speakers/speaker3.png" width="300" height="407"/> | <img src="./img/speakers/speaker2.png" width="250" height="407"/> |
+  | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
 
 #### 김중헌 교수님, 고려대학교 전기전자공학부(좌)
+
 #### 백한결 연구원님, 고려대학교 전기전자공학부(우)
 
 _11/7/2023(화) 20:30_
 
 주제:
+
 - 양자인공지능 분야 소개 및 AIM 연구실 소개
 - 양자인공지능 Application (Quantum Convolutional Neural Network 관점)
 - 그외 양자 컴퓨팅 관련된 재밌는 이야기들 (발전방향/Pros and Cons)
@@ -130,6 +148,7 @@ _11/7/2023(화) 20:30_
 _11/18/2023(토) 10:00_
 
 주제:
+
 - Challenge 개회 축하
 - 고려대학교(주관) 양자대학원 및 ScQI 연구실 소개
 - 실험물리학자 관점에서의 양자정보과학
@@ -175,7 +194,7 @@ _11/18/2023(토) 10:00_
 - https://open.kakao.com/o/sHtfMOKf
 - e-mail: kuquickofficial@gmail.com
 
-* * *
+---
 
 ## Welcome!!
 
@@ -190,6 +209,7 @@ Challenge problems will grdually increase in difficulty, starting with very basi
 We look forward to seeing the participants. You don't have to know much about quantum computers, so please don't hesitate to apply if you're curious about what quantum computers are!
 
 ## Support
+
 <img src="./img/support/support1.png" width="300" height="300"/>
 <img src="./img/support/support2.png" width="300" height="100"/>
 <img src="./img/support/support3.png" width="300" height="180"/>
@@ -258,6 +278,19 @@ _Event Details: 11/18/2023(Sat), offline(place TBD), 10:00~18:30_
 
 ## Guest Speaker
 
+### Kickoff meeting
+
+<img src="./img/speakers/speaker5.png" width="300" height="400"/>
+
+#### Sophy Shin, IBM Quantum(Korean lead, Quantum & Qiskit community)
+
+_11/4/2023(Sat) 10:00_
+
+Title:
+
+- History of Quantum computer
+- IBM Quantum's vision
+
 ### Workshop 2
 
 <img src="./img/speakers/speaker1.png" width="300" height="394"/>
@@ -267,6 +300,7 @@ _Event Details: 11/18/2023(Sat), offline(place TBD), 10:00~18:30_
 _11/7/2023(Tue) 19:00(KST)_
 
 Title:
+
 - Introduction to Quantum Information Science and Research Trends
 <!-- 
 <img src="./img/speakers/speaker4.png" width="300" height="394"/>
@@ -276,18 +310,21 @@ Title:
 _11/7/2023(화) 19:40_
 
 Title:
+
 - Quantum Teleportation
 - Grover's Algorithm
--->
-| <img src="./img/speakers/speaker3.png" width="300" height="407"/> | <img src="./img/speakers/speaker2.png" width="250" height="407"/> |
-| ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+  -->
+  | <img src="./img/speakers/speaker3.png" width="300" height="407"/> | <img src="./img/speakers/speaker2.png" width="250" height="407"/> |
+  | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
 
 #### Professor Joongheon Kim, Korea University(left)
+
 #### Hankyul Baek, Korea University(right)
 
 _11/7/2023(Tue) 20:30_
 
 Title:
+
 - Introduction to Quantum Artificial Intelligence and AIM Laboratory
 - Application of Quantum Artificial Intelligence
 - Interesting Stories About Quantum Computing (the direction of development, Pros and Cons)
@@ -301,6 +338,7 @@ Title:
 _11/18/2023(Sat) 10:00_
 
 Title:
+
 - Celebrating the Opening of the Challenge
 - Introduction of Quantum Workforce Center and ScQI Laboratory
 - Quantum Information Science from the Perspective of an Experimental Physicist
