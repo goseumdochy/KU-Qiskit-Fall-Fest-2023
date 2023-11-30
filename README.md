@@ -26,13 +26,13 @@ Qiskit Fall Fest at Korea University에서 참가자분들을 만나 뵐 수 있
 
 ### 전체적인 일정표
 
-| 시간(KST)                   | 진행 방식 및 장소  | 내용        | 비고                                                  |
-| --------------------------- | ------------------ | ----------- | ----------------------------------------------------- |
-| 11/4(토) 10:00 AM~12:00 PM  | online             | 킥오프 미팅 | 실시간 참여 혹은 녹화본 11/5(일) 오후 6시 전까지 시청 |
-| 11/5(일) 7:00~9:00 PM       | online             | 워크숍 1    | 실시간 참여 혹은 녹화본 11/6(월) 자정까지 시청        |
+| 시간(KST)                   | 진행 방식 및 장소    | 내용        | 비고                                                  |
+| --------------------------- | -------------------- | ----------- | ----------------------------------------------------- |
+| 11/4(토) 10:00 AM~12:00 PM  | online               | 킥오프 미팅 | 실시간 참여 혹은 녹화본 11/5(일) 오후 6시 전까지 시청 |
+| 11/5(일) 7:00~9:00 PM       | online               | 워크숍 1    | 실시간 참여 혹은 녹화본 11/6(월) 자정까지 시청        |
 | 11/7(화) 7:00~9:00 PM       | offline 창의관 116호 | 워크숍 2    | 오프라인으로 필수 참여                                |
-| 11/11(토) 10:00 AM~12:00 PM | online             | 워크숍 3    | 실시간 참여 혹은 녹화본 11/17(금) 자정까지 시청       |
-| 11/14(화) 7:00~9:00 PM      | online             | 워크숍 4    | 실시간 참여 혹은 녹화본 11/17(금) 자정까지 시청       |
+| 11/11(토) 10:00 AM~12:00 PM | online               | 워크숍 3    | 실시간 참여 혹은 녹화본 11/17(금) 자정까지 시청       |
+| 11/14(화) 7:00~9:00 PM      | online               | 워크숍 4    | 실시간 참여 혹은 녹화본 11/17(금) 자정까지 시청       |
 | 11/18(토) 10:00~18:30       | offline 창의관 127호 | Challenge   |                                                       |
 
 **온라인으로 진행되는 워크숍 녹화본은 각 워크숍 이후 제공될 예정입니다.**
@@ -53,7 +53,7 @@ _Session Details: 11/5/2023(일), online, 19:00~21:00_
 
 ### 💡Qiskit Fall Fest 워크숍 2: 양자컴퓨터로 무엇을 할 수 있을까?💡
 
-_Session Details: 11/7/2023(화), offline(place TBD), 19:00~21:00_
+_Session Details: 11/7/2023(화), offline 창의관 116호, 19:00~21:00_
 
 두번째 워크숍에서는 양자컴퓨터를 이용하여 우리가 무엇을 할 수 있는지, 그리고 양자컴퓨터 관련된 연구분야는 어떠한 것들이 있는지 소개해드릴 예정입니다. 양자정보과학 분야에서 연구하시는 연구원분들을 초빙하여 진행할 예정입니다.
 연구원분들께서 진행하고 계신 분야에 대한 소개 및 양자컴퓨터를 사용하여 진행하였던 재미있는 프로젝트에 대해 말씀해주실 예정입니다.
@@ -74,7 +74,7 @@ _Session Details: 11/14/2023(화), online, 19:00~21:00_
 
 ### 🎉 Challenge: Main Event 🎉
 
-_Event Details: 11/18/2023(토), offline(place TBD), 10:00~18:30_
+_Event Details: 11/18/2023(토), offline 창의관 127호, 10:00~18:30_
 
 | time        | content                          |
 | ----------- | -------------------------------- |
@@ -85,6 +85,8 @@ _Event Details: 11/18/2023(토), offline(place TBD), 10:00~18:30_
 | 17:30       | 도전 문제 풀기 마감              |
 | 17:30~18:00 | 시상식                           |
 | 18:00~18:30 | 행사 후 설문 및 마무리           |
+
+행사가 종료되었기에 챌린지 문제를 공개합니다! 이 [링크](https://github.com/goseumdochy/qiskit-fall-fest-2023ku-challenge-notebook)를 통해 챌린지 문제가 있는 github에 접속할 수 있습니다.
 
 ## 연사 소개
 
@@ -218,14 +220,14 @@ We look forward to seeing the participants. You don't have to know much about qu
 
 ### Summarized timetable
 
-| Time(KST)              | type & place       | content         | note                                                                     |
-| ---------------------- | ------------------ | --------------- | ------------------------------------------------------------------------ |
-| 11/4(Sat) 10:00~12:00  | online             | kickoff meeting | Participate in real-time or watch the recording until 18:00 on 11/5(Sun) |
-| 11/5(Sun) 19:00~21:00  | online             | Workshop1       | Participate in real-time or watch the recording until 23:59 on 11/6(Mon) |
-| 11/7(Tue) 19:00~21:00  | offline(place TBD) | Workshop2       | Participate in offline                                                   |
-| 11/11(Sat) 10:00~12:00 | online             | Workshop3       | Participate in real-time or watch the recording until 23:59 on 11/17(금) |
-| 11/14(Tue) 19:00~21:00 | online             | Workshop4       | Participate in real-time or watch the recording until 23:59 on 11/17(금) |
-| 11/18(Sat) 10:00~18:30 | offline(place TBD) | Challenge       | main event                                                               |
+| Time(KST)              | type & place                | content         | note                                                                     |
+| ---------------------- | --------------------------- | --------------- | ------------------------------------------------------------------------ |
+| 11/4(Sat) 10:00~12:00  | online                      | kickoff meeting | Participate in real-time or watch the recording until 18:00 on 11/5(Sun) |
+| 11/5(Sun) 19:00~21:00  | online                      | Workshop1       | Participate in real-time or watch the recording until 23:59 on 11/6(Mon) |
+| 11/7(Tue) 19:00~21:00  | offline Innovation Hall 116 | Workshop2       | Participate in offline                                                   |
+| 11/11(Sat) 10:00~12:00 | online                      | Workshop3       | Participate in real-time or watch the recording until 23:59 on 11/17(금) |
+| 11/14(Tue) 19:00~21:00 | online                      | Workshop4       | Participate in real-time or watch the recording until 23:59 on 11/17(금) |
+| 11/18(Sat) 10:00~18:30 | offline Innovation Hall 127 | Challenge       | main event                                                               |
 
 **A recording of the online workshop will be available after each workshop.**
 
@@ -243,7 +245,7 @@ Our first workshop will cover mathematical background knowledge you need to know
 
 ### 💡Qiskit Fall Fest Workshop 2: What can we do with quantum computers?💡
 
-_Session Details: 11/7/2023(Tue), offline(place TBD), 19:00~21:00_
+_Session Details: 11/7/2023(Tue), offline Innovation Hall 116, 19:00~21:00_
 
 The second workshop will cover what we can do using quantum computers and what are the detailed research areas related to quantum computers.
 We invite researchers in quantum information science as speakers. They will give an overview of the field they are studying. And they will introduce interesting projects that they have worked on and explain the experience of using quantum computers.
@@ -264,7 +266,7 @@ In workshop4, we will guide the type of challenge problem and solve the challeng
 
 ### 🎉 Challenge 🎉
 
-_Event Details: 11/18/2023(Sat), offline(place TBD), 10:00~18:30_
+_Event Details: 11/18/2023(Sat), offline Innovation Hall 127, 10:00~18:30_
 
 | time        | content                                                     |
 | ----------- | ----------------------------------------------------------- |
@@ -275,6 +277,8 @@ _Event Details: 11/18/2023(Sat), offline(place TBD), 10:00~18:30_
 | 17:30       | Deadline of Challenge Problem Solving                       |
 | 17:30~18:00 | Awards ceremony                                             |
 | 18:00~18:30 | Post event survey & Additional resources                    |
+
+Since the event has ended, we're revealing the challenge notebooks! You can access github repository which contains our challenge notebooks through this [link](https://github.com/goseumdochy/qiskit-fall-fest-2023ku-challenge-notebook).
 
 ## Guest Speaker
 
